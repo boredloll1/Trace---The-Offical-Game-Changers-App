@@ -1,5 +1,0 @@
-streamlit
-sarvamai==0.1.36
-python-dotenv
-pandas
-requests
